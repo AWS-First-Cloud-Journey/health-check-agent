@@ -4,7 +4,7 @@ This is simple app to health check local server via Cron job or API.
  Setup <a href='https://docs.python-guide.org/starting/install3/linux/' target='_blank'> Python <a><br />
  Setup <a href='https://docs.python-guide.org/starting/install3/linux/' target='_blank'> Python Env<br />
 
-> git clone https://github.com/nguyendinhthi0705/health-check-agent.git <br />
+> git clone https://github.com/AWS-First-Cloud-Journey/health-check-agent.git <br />
 > cd health-check-agent <br />
 > python3 -m venv .venv <br />
 > . .venv/bin/activate <br />
